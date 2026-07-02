@@ -6,7 +6,14 @@
 
 Advance Apocalypse is a public OpenApoc patch build based on the OpenApoc 2026-04-19 release baseline.
 
-This project restores and improves several X-COM: Apocalypse / OpenApoc gameplay and UI behaviors, including Overspawn deployment, city vehicle manual control, cargo transport recovery, vehicle rechargeable weapons, tactical movement marker visibility, and long-list UI scrolling.
+This project restores and improves several X-COM: Apocalypse / OpenApoc gameplay
+- UI behaviors
+- Overspawn deployment
+- city vehicle manual control
+- cargo transport recovery
+- vehicle rechargeable weapons
+- tactical movement marker visibility
+- long-list UI scrolling
 
 ## Important Notice
 
