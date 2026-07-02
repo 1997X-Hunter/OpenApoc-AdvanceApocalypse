@@ -3,7 +3,6 @@
 </p>
 
 # OpenApoc-Advance Apocalypse
-# OpenApoc-Advance Apocalypse
 
 Advance Apocalypse is a public OpenApoc patch build based on the OpenApoc 2026-04-19 release baseline.
 
